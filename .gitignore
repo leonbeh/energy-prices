@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Data
+Data/
+
+# Obsidian
+.obsidian/
+.trash/
+
