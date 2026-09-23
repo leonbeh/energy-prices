@@ -1,2 +1,3 @@
-# Energy Price Forecasting in Germany (Jan 2021 - Dec 2025)
-
+# Energy Price Forecasting
+Location: Germany
+Time: Jan 2021 - Dec 2025
